@@ -2,7 +2,7 @@
  A.cpp:makefile
   all: A.cpp
       g++ A.cpp -o A
-    
+   
  B
  size = 1000000
  sort(): 334035 seconds
